@@ -2,7 +2,7 @@
 
 A sleek **hacker-themed** terminal-style portfolio showcasing my skills, projects, and contact information — all in a single static HTML page.  
 
-🔗 **Live Demo:** [https://sidinsearch.github.io/portfolio/](https://sidinsearch.github.io/portfolio/)  
+🔗 **Live Demo:** [https://sidinsearch.github.io/portfolio/](https://sidinsearch.github.io/portfolio/)   
 
 ---
 
