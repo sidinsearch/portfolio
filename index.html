@@ -881,7 +881,7 @@
                 return {
                     key: slugifyId(project.repo),
                     name: project.name,
-                    desc: info?.desc ? info.desc.replace(/[—–]/g, '-') : project.desc,
+                    desc: project.desc || (info?.desc ? info.desc.replace(/[—–]/g, '-') : ''),
                     language: info?.language || '',
                     stars: info?.stars ?? 0,
                     forks: info?.forks ?? 0,
